@@ -134,10 +134,10 @@ Tampilan responsive untuk mobile
 - 🐙 [GitHub Repository](https://github.com/yourusername/animehub)
 
 ### Community
-- 💬 [Discord Server](https://discord.gg/animehub)
-- 🐦 [Twitter](https://twitter.com/animehub)
-- 📧 [Mailing List](https://newsletter.animehub.com)
-- 🎥 [YouTube Channel](https://youtube.com/animehub)
+- 💬 [Discord account_Server](https://discord.com/channels/@zxyninety)
+- 📷 [Instagran](https://www.instagram.com/f.zvvn_/)
+- 📧 [Mailing List](https://newsletter.fhazwan.com)
+- 🎥 [YouTube Channel](https://www.youtube.com/@zxyninety293)
 
 ### Development
 - 🐛 [Issue Tracker](https://github.com/yourusername/siswayangtidakmencolok-afk/issues)
